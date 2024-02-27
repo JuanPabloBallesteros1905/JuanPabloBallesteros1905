@@ -22,10 +22,7 @@
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
+      <a href="https://wa.me/+573022704" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
