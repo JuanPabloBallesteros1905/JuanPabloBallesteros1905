@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola! soy Juan Ballesteros</h1>
-<h4 align="center">Desarrollador Flutter y estudiante de nuevas tecnologias</h4>
+<h4 align="center">Desarrollador móvil apasionado por crear aplicaciones intuitivas y eficientes.</h4>
   <h4> Puedes ver mi repositorio completo <a href="https://github.com/JuanPabloBallesteros1905?tab=repositories" target="_blank" >aqui</h4>
 </div>
 
